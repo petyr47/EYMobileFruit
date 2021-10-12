@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939911000639",
+    "project_id": "ey-fruit-app",
+    "storage_bucket": "ey-fruit-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939911000639:android:93af065bc557ff0c363e8a",
+        "android_client_info": {
+          "package_name": "com.aneke.peter.eymobilefruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939911000639-1jqnkne4q7617l8lgve7q5i0j938k2q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9yFweOkaDnUDQkZGWqV1iaKg9BF2epT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939911000639-1jqnkne4q7617l8lgve7q5i0j938k2q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
